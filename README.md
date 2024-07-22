@@ -1,3 +1,5 @@
+This branch contains test versions of aca-py plugins which are experimental features being tested.
+
 # aries-acapy-plugins
 
 This repository contains approved and tested plugins for Aries Cloudagent Python. This is to encourage collaboration and sharing of useful features not directly included in aca-py.
